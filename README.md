@@ -30,7 +30,7 @@ If you'd like to pull down the code to your local machine:
 - Run `npm install` in your command line to install the necessary dependencies
 
 ## Deployed Page
-Checkout the deployed page with [Vercel](https://soupwarts.vercel.app/)
+Checkout the [deployed page](https://soupwarts.vercel.app/) through Vercel.
 
 ## Technologies Used
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
