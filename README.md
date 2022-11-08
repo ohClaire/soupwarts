@@ -29,6 +29,9 @@ If you'd like to pull down the code to your local machine:
 - `cd` into the root directory
 - Run `npm install` in your command line to install the necessary dependencies
 
+## Deployed Page
+Checkout the deployed page with [Vercel](https://soupwarts.vercel.app/)
+
 ## Technologies Used
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
